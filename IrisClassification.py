@@ -1,3 +1,3 @@
 import pandas as pd
 df = pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data', header=None)
-df.tail()
+# df.tail()     <- I used Jupyter to get the output of this line...
